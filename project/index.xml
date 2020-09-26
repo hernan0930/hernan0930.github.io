@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hernán Carrillo</title>
-    <link>https://hernan0930.github.io/</link>
-      <atom:link href="https://hernan0930.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Hernán Carrillo</description>
+    <title>Projects | Hernán Carrillo</title>
+    <link>https://hernan0930.github.io/project/</link>
+      <atom:link href="https://hernan0930.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jun 2019 22:47:12 +0200</lastBuildDate>
     <image>
       <url>https://hernan0930.github.io/images/icon_hu8c59015711fc091eca8df0f486f4f6fa_15064_512x512_fill_lanczos_center_2.png</url>
-      <title>Hernán Carrillo</title>
-      <link>https://hernan0930.github.io/</link>
+      <title>Projects</title>
+      <link>https://hernan0930.github.io/project/</link>
     </image>
     
     <item>
