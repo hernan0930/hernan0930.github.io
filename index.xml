@@ -5,7 +5,7 @@
     <link>https://hernan0930.github.io/</link>
       <atom:link href="https://hernan0930.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Hernán Carrillo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jun 2019 22:47:12 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2020 17:41:53 +0200</lastBuildDate>
     <image>
       <url>https://hernan0930.github.io/images/icon_hu8c59015711fc091eca8df0f486f4f6fa_15064_512x512_fill_lanczos_center_2.png</url>
       <title>Hernán Carrillo</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Semantic segmentation with Deep Learning</title>
+      <link>https://hernan0930.github.io/project/segmentation-cells/</link>
+      <pubDate>Tue, 28 Jan 2020 17:41:53 +0200</pubDate>
+      <guid>https://hernan0930.github.io/project/segmentation-cells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Auto-calibration using LIDAR and Visual SLAM</title>
       <link>https://hernan0930.github.io/project/autocalibration/</link>
       <pubDate>Wed, 26 Jun 2019 22:47:12 +0200</pubDate>
       <guid>https://hernan0930.github.io/project/autocalibration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic music transcription</title>
+      <link>https://hernan0930.github.io/project/transcript-notes/</link>
+      <pubDate>Tue, 28 May 2019 17:30:20 +0200</pubDate>
+      <guid>https://hernan0930.github.io/project/transcript-notes/</guid>
       <description></description>
     </item>
     
